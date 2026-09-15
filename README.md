@@ -21,6 +21,6 @@ Building real, working projects instead of just tutorials — figuring things ou
 
 ---
 *Consistency over perfection — one commit at a time.*<!--
-**subhrajeetshaw008-bit/subhrajeetshaw008-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
