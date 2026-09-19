@@ -60,15 +60,20 @@ Real projects > tutorials. Figuring things out one bug (and one commit) at a tim
 
 ---
 
+## 🎮 Fun Zone
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhrajeetshaw008-bit/subhrajeetshaw008-bit/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhrajeetshaw008-bit/subhrajeetshaw008-bit/output/github-snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/subhrajeetshaw008-bit/subhrajeetshaw008-bit/output/github-snake.svg" />
+</picture>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=subhrajeetshaw008-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=subhrajeetshaw008-bit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=subhrajeetshaw008-bit&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=subhrajeetshaw008-bit&theme=tokyonight&hide_border=true" alt="Total contributions and streak stats" />
 </p>
 
 ---
@@ -79,10 +84,6 @@ Real projects > tutorials. Figuring things out one bug (and one commit) at a tim
   <a href="https://github.com/subhrajeetshaw008-bit">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="wave footer" />
 </p>
 
 <p align="center"><i>⭐️ Learning daily. Building patiently. Growing steadily.</i></p>
