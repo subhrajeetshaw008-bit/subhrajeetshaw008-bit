@@ -63,6 +63,11 @@ Real projects > tutorials. Figuring things out one bug (and one commit) at a tim
 ### 🤝 Contributions
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/zeeshan-web62/NEW_SIH/pull/2) in [zeeshan-web62/NEW_SIH](https://github.com/zeeshan-web62/NEW_SIH)
+2. 🎉 Merged PR [#3](https://github.com/zeeshan-web62/NEW_SIH/pull/3) in [zeeshan-web62/NEW_SIH](https://github.com/zeeshan-web62/NEW_SIH)
+3. 🎉 Merged PR [#4](https://github.com/zeeshan-web62/NEW_SIH/pull/4) in [zeeshan-web62/NEW_SIH](https://github.com/zeeshan-web62/NEW_SIH)
+4. 💪 Opened PR [#4](https://github.com/zeeshan-web62/NEW_SIH/pull/4) in [zeeshan-web62/NEW_SIH](https://github.com/zeeshan-web62/NEW_SIH)
+5. 💪 Opened PR [#3](https://github.com/zeeshan-web62/NEW_SIH/pull/3) in [zeeshan-web62/NEW_SIH](https://github.com/zeeshan-web62/NEW_SIH)
 <!--END_SECTION:activity-->
 
 ---
