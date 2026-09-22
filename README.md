@@ -85,12 +85,7 @@ Real projects > tutorials. Figuring things out one bug (and one commit) at a tim
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=subhrajeetshaw008-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhrajeetshaw008-bit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=subhrajeetshaw008-bit&theme=tokyonight&hide_border=true" alt="Total contributions and streak stats" />
+  <img src="https://raw.githubusercontent.com/subhrajeetshaw008-bit/subhrajeetshaw008-bit/main/output/metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
