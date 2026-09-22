@@ -1,0 +1,25 @@
+name: Generate GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # runs once daily, 1 hour after your README update job
+  workflow_dispatch:        # lets you trigger it manually too
+
+permissions:
+  contents: write
+
+jobs:
+  generate-metrics:
+    runs-on: ubuntu-latest
+    name: Generate metrics.svg
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: output/metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header, activity, community, repositories
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_threshold: 0%
