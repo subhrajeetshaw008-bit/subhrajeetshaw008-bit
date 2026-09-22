@@ -21,7 +21,7 @@
 
 ### 🚀 What I'm building
 
-- 🤖 **[Shane.ai](https://github.com/subhrajeetshaw008-bit/Shane.ai)** — a personal AI assistant, vibe-coded from scratch. Runs on a local LLM via Ollama, wakes up on a wake word, talks back with offline TTS, and handles to-dos, reminders, habit tracking, and daily scheduling. Currently getting a Streamlit web UI, expense tracking, and a study assistant bolted on.
+- 🤖 **[Shane.ai](https://github.com/subhrajeetshaw008-bit/Shane.ai)** — a personal AI assistant, vibe-coded from scratch (with Claude). Runs on a local LLM via Ollama, wakes up on a wake word, talks back with offline TTS, and handles to-dos, reminders, habit tracking, and daily scheduling. Currently getting a Streamlit web UI, expense tracking, and a study assistant bolted on.
 - ⛰️ **[SIH-Landslide-Early-Warning](https://github.com/subhrajeetshaw008-bit/SIH-Landslide-Early-Warning)** — a Python project for early landslide detection & warning.
 
 ### 🧠 About Me
@@ -60,6 +60,13 @@ Real projects > tutorials. Figuring things out one bug (and one commit) at a tim
 
 ---
 
+### 🤝 Contributions
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 🎮 Fun Zone
 
 <picture>
@@ -71,6 +78,11 @@ Real projects > tutorials. Figuring things out one bug (and one commit) at a tim
 ---
 
 ### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=subhrajeetshaw008-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhrajeetshaw008-bit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=subhrajeetshaw008-bit&theme=tokyonight&hide_border=true" alt="Total contributions and streak stats" />
