@@ -82,10 +82,24 @@ Real projects > tutorials. Figuring things out one bug (and one commit) at a tim
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-swart-eta-25.vercel.app/api?username=subhrajeetshaw008-bit&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=4D96FF&text_color=F8F9FA&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats-swart-eta-25.vercel.app/api/top-langs/?username=subhrajeetshaw008-bit&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=FFD93D&text_color=F8F9FA" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=subhrajeetshaw008-bit&hide_border=true&background=0d1117&stroke=FF6B6B&ring=FFD93D&fire=FF9F1C&currStreakLabel=00E5FF&sideLabels=F8F9FA&dates=CDB4DB&currStreakNum=6BCB77&sideNums=4D96FF" />
+
+</div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/subhrajeetshaw008-bit/subhrajeetshaw008-bit/main/output/metrics.svg" alt="GitHub Metrics" />
+  Actively building projects and improving consistency.
 </p>
 
 ---
