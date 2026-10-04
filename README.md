@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/subhrajeetshaw008-bit">
-    <img src="https://komarev.com/ghpvc/?username=subhrajeetshaw008-bit&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile views" />
+    <img src="https://hits.sh/github.com/subhrajeetshaw008-bit.svg?style=for-the-badge&label=Profile%20Views&color=58A6FF" alt="Profile views" />
   </a>
   <img src="https://img.shields.io/badge/status-shipping%20bugs%20%26%20features-brightgreen?style=for-the-badge" alt="status" />
 </p>
