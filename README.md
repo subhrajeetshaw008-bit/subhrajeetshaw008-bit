@@ -3,7 +3,7 @@
 <h3 align="center">🎓 3rd-sem student • building stuff, breaking stuff, learning by doing</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Shane.ai+%F0%9F%A4%96;Offline+AI+assistant+enthusiast;C+%C2%B7+C%2B%2B+%C2%B7+Python+%C2%B7+Ollama;Consistency+over+perfection" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=ML+for+landslide+early+warning+%F0%9F%8F%94%EF%B8%8F;C+%C2%B7+C%2B%2B+%C2%B7+Python+%C2%B7+JavaScript;Solving+DSA+on+LeetCode+%F0%9F%A7%A9;Consistency+over+perfection" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,19 +15,24 @@
 
 <p align="center">
   <a href="https://www.github.com/subhrajeetshaw008-bit"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/subhrajeet-shaw-067a11426/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/u/Shane_98/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
 ---
 
 ### 🚀 What I'm building
 
-- 🤖 **[Shane.ai](https://github.com/subhrajeetshaw008-bit/Shane.ai)** — a personal AI assistant, vibe-coded from scratch (with Claude). Runs on a local LLM via Ollama, wakes up on a wake word, talks back with offline TTS, and handles to-dos, reminders, habit tracking, and daily scheduling. Currently getting a Streamlit web UI, expense tracking, and a study assistant bolted on.
-- ⛰️ **[SIH-Landslide-Early-Warning](https://github.com/subhrajeetshaw008-bit/SIH-Landslide-Early-Warning)** — a Python project for early landslide detection & warning.
+- ⛰️ **[SIH-Landslide-Early-Warning](https://github.com/subhrajeetshaw008-bit/SIH-Landslide-Early-Warning)** — landslide risk prediction for Northeast India, built for Smart India Hackathon 2026. Combines DEM elevation and slope, live weather and an ML model to give a risk level with safety tips. *(Python · Streamlit · ML)*
+- 🎮 **[Sem-Quest](https://github.com/subhrajeetshaw008-bit/Sem-Quest)** — a gamified study planner for semester exams with a daily timetable, XP, levels, streaks and badges. [Try it live](https://subhrajeetshaw008-bit.github.io/Sem-Quest/). *(HTML · CSS · JavaScript)*
+- 🧩 **[leetcode-solutions](https://github.com/subhrajeetshaw008-bit/leetcode-solutions)** — my LeetCode grind, with solutions auto-pushed the moment they're Accepted. *(C++ · C · Python)* · [LeetCode profile](https://leetcode.com/u/Shane_98/)
+- 📚 **[Practice](https://github.com/subhrajeetshaw008-bit/Practice)** — Python and C fundamentals: control flow, loops and OOP.
 
 ### 🧠 About Me
 
 - 🎓 3rd-semester student, learning by shipping real projects instead of just watching tutorials
-- 🛠️ Currently deep in **local/offline AI tooling** — no cloud APIs, just Ollama and stubbornness
+- 🛠️ Interested in applied ML — building things that solve real problems
+- 🤝 Open-source contributor — merged PRs into [payband-mcp](https://github.com/dheerajjha/payband-mcp) and [logspecter](https://github.com/Jeffy123-zhu/logspecter)
 - 🎯 Long-term goal: become a solid, dependable engineer with strong fundamentals
 
 > *Consistency over perfection — one commit at a time.*
@@ -42,19 +47,24 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 **Frameworks & Tools**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ### 🌱 Currently learning
+
+- Data structures & algorithms through daily LeetCode practice
+- Machine learning, by improving the landslide predictor
 
 Real projects > tutorials. Figuring things out one bug (and one commit) at a time.
 
@@ -109,6 +119,12 @@ Real projects > tutorials. Figuring things out one bug (and one commit) at a tim
 <p align="left">
   <a href="https://github.com/subhrajeetshaw008-bit">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/subhrajeet-shaw-067a11426/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/Shane_98/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
 
