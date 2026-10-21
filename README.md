@@ -73,11 +73,11 @@ Real projects > tutorials. Figuring things out one bug (and one commit) at a tim
 ### 🤝 Contributions
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/dheerajjha/payband-mcp/pull/45) in [dheerajjha/payband-mcp](https://github.com/dheerajjha/payband-mcp)
-2. 🗣 Commented on [#48](https://github.com/Jeffy123-zhu/logspecter/pull/48#issuecomment-6275173130) in [Jeffy123-zhu/logspecter](https://github.com/Jeffy123-zhu/logspecter)
-3. 🎉 Merged PR [#48](https://github.com/Jeffy123-zhu/logspecter/pull/48) in [Jeffy123-zhu/logspecter](https://github.com/Jeffy123-zhu/logspecter)
-4. 💪 Opened PR [#48](https://github.com/Jeffy123-zhu/logspecter/pull/48) in [Jeffy123-zhu/logspecter](https://github.com/Jeffy123-zhu/logspecter)
-5. 🗣 Commented on [#45](https://github.com/dheerajjha/payband-mcp/pull/45#issuecomment-6273584665) in [dheerajjha/payband-mcp](https://github.com/dheerajjha/payband-mcp)
+1. ❌ Closed PR [#2](https://github.com/Skakmamuddin/SIH_project/pull/2) in [Skakmamuddin/SIH_project](https://github.com/Skakmamuddin/SIH_project)
+2. 💪 Opened PR [#2](https://github.com/Skakmamuddin/SIH_project/pull/2) in [Skakmamuddin/SIH_project](https://github.com/Skakmamuddin/SIH_project)
+3. 🎉 Merged PR [#45](https://github.com/dheerajjha/payband-mcp/pull/45) in [dheerajjha/payband-mcp](https://github.com/dheerajjha/payband-mcp)
+4. 🗣 Commented on [#48](https://github.com/Jeffy123-zhu/logspecter/pull/48#issuecomment-6275173130) in [Jeffy123-zhu/logspecter](https://github.com/Jeffy123-zhu/logspecter)
+5. 🎉 Merged PR [#48](https://github.com/Jeffy123-zhu/logspecter/pull/48) in [Jeffy123-zhu/logspecter](https://github.com/Jeffy123-zhu/logspecter)
 <!--END_SECTION:activity-->
 
 ---
