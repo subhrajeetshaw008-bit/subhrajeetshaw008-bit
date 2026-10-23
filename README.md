@@ -73,11 +73,11 @@ Real projects > tutorials. Figuring things out one bug (and one commit) at a tim
 ### 🤝 Contributions
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/Vivek492005/STUDY-BUDDY/issues/5#issuecomment-6311507619) in [Vivek492005/STUDY-BUDDY](https://github.com/Vivek492005/STUDY-BUDDY)
-2. 💪 Opened PR [#38](https://github.com/Vivek492005/STUDY-BUDDY/pull/38) in [Vivek492005/STUDY-BUDDY](https://github.com/Vivek492005/STUDY-BUDDY)
-3. ❌ Closed PR [#2](https://github.com/Skakmamuddin/SIH_project/pull/2) in [Skakmamuddin/SIH_project](https://github.com/Skakmamuddin/SIH_project)
-4. 💪 Opened PR [#2](https://github.com/Skakmamuddin/SIH_project/pull/2) in [Skakmamuddin/SIH_project](https://github.com/Skakmamuddin/SIH_project)
-5. 🎉 Merged PR [#45](https://github.com/dheerajjha/payband-mcp/pull/45) in [dheerajjha/payband-mcp](https://github.com/dheerajjha/payband-mcp)
+1. 🎉 Merged PR [#38](https://github.com/Vivek492005/STUDY-BUDDY/pull/38) in [Vivek492005/STUDY-BUDDY](https://github.com/Vivek492005/STUDY-BUDDY)
+2. 🗣 Commented on [#5](https://github.com/Vivek492005/STUDY-BUDDY/issues/5#issuecomment-6311507619) in [Vivek492005/STUDY-BUDDY](https://github.com/Vivek492005/STUDY-BUDDY)
+3. 💪 Opened PR [#38](https://github.com/Vivek492005/STUDY-BUDDY/pull/38) in [Vivek492005/STUDY-BUDDY](https://github.com/Vivek492005/STUDY-BUDDY)
+4. ❌ Closed PR [#2](https://github.com/Skakmamuddin/SIH_project/pull/2) in [Skakmamuddin/SIH_project](https://github.com/Skakmamuddin/SIH_project)
+5. 💪 Opened PR [#2](https://github.com/Skakmamuddin/SIH_project/pull/2) in [Skakmamuddin/SIH_project](https://github.com/Skakmamuddin/SIH_project)
 <!--END_SECTION:activity-->
 
 ---
